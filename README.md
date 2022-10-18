@@ -1,2 +1,9 @@
 # odin-recipes
-My first htlm project 
+
+> This is my very first project.
+>
+> A website with many healthy recipes.
+
+## Objective 
+
+>  Test my html knowledge by making a recipes website.

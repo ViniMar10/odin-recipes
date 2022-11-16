@@ -4,4 +4,4 @@
 > My first project.
 
 # Objective 
-> Test my html knowledge.
+> Test my html and css knowledge.

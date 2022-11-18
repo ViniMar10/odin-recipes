@@ -1,7 +1,4 @@
-ul p {
-    font-weight: bold;
-    color:darkblue
-}
+/* below this note is the code meant for the website main page */
 
 #website-name {
     font-size: 50px;
@@ -26,4 +23,38 @@ ul p {
 .recipe-acess{
     color: black;
     font-size: 20px;
+}
+
+#asta-bombado {
+    float: right;
+    height:600px;
+    width: auto;
+}
+
+/*below this note is the code meant for all the website pages */
+.macros {
+    font-weight: bold;
+    color:white;
+}
+
+* {
+    background-color: rgb(80, 57, 28);
+}
+
+h1 {
+    background-color: olivedrab;
+}
+
+h2 {
+    background-color: yellowgreen;
+}
+
+button {
+    color:white;
+    background-color: black;
+}
+
+button a {
+    color:white;
+    background-color: black;
 }
